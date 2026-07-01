@@ -9,7 +9,7 @@
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ultron-prime307)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](linkedin.com/in/bhagyesh-sapkale-a59b23328)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](bhagyeshsapkale1438@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=globe)](https://your-portfolio.com)
 
@@ -84,9 +84,9 @@
 
 Feel free to reach out for collaborations, projects, or just a friendly chat!
 
-**Email:** your-email@gmail.com  
-**LinkedIn:** [Your Profile](https://linkedin.com)  
-**GitHub:** [Your Repository](https://github.com)
+**Email:** bhagyeshsapkale1438@gmail.com  
+**LinkedIn:** [Your Profile](linkedin.com/in/bhagyesh-sapkale-a59b23328)  
+**GitHub:** [Your Repository](https://github.com/Ultron-prime307)
 
 ---
 
