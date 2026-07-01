@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Ultron — Command Center
 
 > A brutalist-style task management dashboard with cutting-edge 3D visuals and operational clarity.
