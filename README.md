@@ -1,124 +1,89 @@
-<<<<<<< HEAD
-# 🚀 Ultron — Command Center
-
-> A brutalist-style task management dashboard with cutting-edge 3D visuals and operational clarity.
+# F
 
 ---
 
-## ✨ Features
+## 🔗 Connect With Me
 
-- **Brutalist Design System** — Bold typography, geometric precision, and industrial aesthetics
-- **3D Interactive Elements** — Depth effects and smooth animations for immersive experience
-- **Command Center Dashboard** — Real-time task tracking with multiple views
-- **Multi-View Support** — Board and table views for flexible task management
-- **Responsive Layout** — Optimized for desktop and mobile devices
-- **Zero Dependencies** — Pure HTML, CSS, and vanilla JavaScript
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=globe)](https://your-portfolio.com)
 
 ---
 
-## 📊 Dashboard Overview
+## 🚀 About Me
 
-### Core Sections
-- **Workspace Pulse** — Live metrics of active projects and pending tasks
-- **Delivery Board** — Kanban-style workflow with 5 columns (Backlog → Done)
-- **Task Analytics** — Open tasks, overdue, completed, and blocked items
-- **Detail Panel** — Contextual task information with metadata
-
-### Color Palette
-| Element | Color | Usage |
-|---------|-------|-------|
-| Alert | `#ff4d2e` | Urgent tasks |
-| Success | `#2eff7b` | Completed items |
-| Info | `#3d5afe` | Active tasks |
-| Warning | `#ffd600` | Due soon alerts |
+- 🎓 BCA Student specializing in **Computational Science**
+- 💡 Passionate about **Artificial Intelligence**, **Machine Learning** & **Full Stack Development**
+- ⚡ Building scalable **AI-powered applications** and automation systems
+- 🌍 Based in **Maharashtra, India**
+- 🏆 **Shark Tank Winner (2025)** & **Runner-Up (2024)**
 
 ---
 
-## 🎮 Quick Start
+## 💻 Tech Stack
 
-### Option 1: Direct Browser
-Simply open `index.html` in your browser.
+### 👨‍💻 Programming Languages
 
-### Option 2: Local Server
-```bash
-# Python 3.x
-python -m http.server 8000
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-# Python 2.x
-python -m SimpleHTTPServer 8000
+### 🌐 Web & Backend
 
-# Node.js
-npx http-server
-```
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-Then navigate to: **http://127.0.0.1:8000**
+### 🤖 AI & Machine Learning
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 🛠️ Customization
+### 📊 Databases & Tools
 
-### Modify Theme Colors
-Edit the CSS variables in the `<style>` section:
-
-```css
-:root {
-  --bg: #f5f3ee;           /* Background */
-  --ink: #0d0d0d;          /* Text/Borders */
-  --surface: #ffffff;      /* Card backgrounds */
-  --accent-alert: #ff4d2e; /* Error/Urgent */
-  --accent-go: #2eff7b;    /* Success */
-  --accent-info: #3d5afe;  /* Info */
-  --accent-warn: #ffd600;  /* Warnings */
-}
-```
-
-### Add New Tasks
-Update the `taskMap` object in the script section with new task objects following this structure:
-
-```javascript
-{
-  title: 'Task Name',
-  priority: 'Priority: Level',
-  description: 'Task description text'
-}
-```
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 🎨 Design Philosophy
+## 🏆 Notable Projects
 
-Ultron embraces **brutalism** in web design:
-- ✓ Heavy borders and shadows for tactile depth
-- ✓ Bold, uppercase typography
-- ✓ Geometric grids and structured layouts
-- ✓ High contrast and legibility
-- ✓ No unnecessary ornamentation
+- **Ultron Dashboard** — Advanced 3D task management system with brutalist design
+- **AI Automation Suite** — Enterprise-grade automation using Machine Learning
+- **Full Stack Applications** — Production-ready web applications with modern architecture
 
 ---
 
-## 📱 Browser Support
+## 📈 GitHub Stats
 
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&show_icons=true)
 
 ---
 
-## 📄 License
+## 🎯 Current Focus
 
-Created as a design concept for modern task management interfaces.
-
----
-
-## 🚀 Try It Now
-
-**[Open Dashboard](index.html)** — Start managing tasks with industrial precision.
+- 🔬 Advanced AI & Machine Learning research
+- 🚀 Building innovative SaaS products
+- 📚 Contributing to open-source projects
+- 💼 Exploring entrepreneurial ventures
 
 ---
 
-*Built with precision. Designed for clarity. Engineered for results.*
+## 📫 Get In Touch
 
-=======
-# Ultron
->>>>>>> a1de93bf222503a28f509b1f95165d84c2a99469
+Feel free to reach out for collaborations, projects, or just a friendly chat!
+
+**Email:** your-email@gmail.com  
+**LinkedIn:** [Your Profile](https://linkedin.com)  
+**GitHub:** [Your Repository](https://github.com)
+
+---
+
+*"Innovation is the intersection of creativity and technology."* ✨
