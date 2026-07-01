@@ -1,4 +1,8 @@
-# F
+=======
+# 🚀 Ultron — Command Center
+
+> A brutalist-style task management dashboard with cutting-edge 3D visuals and operational clarity.
+>>>>>>> 1cd9bbe600f5e13bcca0c7e135f782699162b069
 
 ---
 
